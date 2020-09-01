@@ -12,10 +12,12 @@ The program itself uses the Chrome browser to automate this process. If you do n
 
 First you will need to clone and then pull the repo to your local machine.
 Start up a new virtual enviroment (this project uses pipenv) so that the dependencies needed by Python can be installed via the Pipfile.
-In your command line of choice just type in "python scraper.py"
+In your command line of choice just type in `python scraper.py`
 
 ### Dependencies
 
-Selenium
-Enquiries
+[Selenium](https://selenium-python.readthedocs.io/index.html)
+
+[Enquiries](https://gitlab.com/facingBackwards/enquiries)
+
 Chrome
