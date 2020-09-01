@@ -1,6 +1,6 @@
 # Rooster Teeth Family Recent Uploads
 
-! [Main Menu](/ghimages/mainmenu.png)
+![Main Menu](/ghimages/mainmenu.png)
 
 ## Information and About
 
