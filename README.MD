@@ -1,6 +1,8 @@
 # Rooster Teeth Family Recent Uploads
 
-## About
+! [Main Menu](/ghimages/mainmenu.png)
+
+## Information and About
 
 This web scraping program came to be when I started to realize how many clicks and minutes I had been spending on looking at these 4 YouTube channels upload pages to see if anything new had been added.
 
@@ -8,10 +10,16 @@ Basically the program will load the upload pages for all 4 channels in the chann
 
 The program itself uses the Chrome browser to automate this process. If you do not know how to change the code to reflect a different web browser that your system uses then you will need to install Chrome.
 
+If there is a feature you think should be added please suggest it or even open a pull request and implement it yourself!
+
+Please report all and any bugs found!
+
 ## How to use
 
 First you will need to clone and then pull the repo to your local machine.
+
 Start up a new virtual enviroment (this project uses pipenv) so that the dependencies needed by Python can be installed via the Pipfile.
+
 In your command line of choice just type in `python scraper.py`
 
 ### Dependencies
