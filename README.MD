@@ -2,6 +2,8 @@
 
 ![Main Menu](/ghimages/mainmenu.png)
 
+![Video Selection](/ghimages/videoselection.png)
+
 ## Information and About
 
 This web scraping program came to be when I started to realize how many clicks and minutes I had been spending on looking at these 4 YouTube channels upload pages to see if anything new had been added.
@@ -21,6 +23,8 @@ First you will need to clone and then pull the repo to your local machine.
 Start up a new virtual enviroment (this project uses pipenv) so that the dependencies needed by Python can be installed via the Pipfile.
 
 In your command line of choice just type in `python scraper.py`
+
+When you are done using the program simply press CTRL+C to exit.
 
 ### Dependencies
 
